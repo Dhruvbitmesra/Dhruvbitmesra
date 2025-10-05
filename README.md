@@ -28,8 +28,20 @@ Email Me 👉 ✉️ **dhruvjordan610@gmail.com**😊😊
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Cool Animated Neural Network Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=180&section=header&text=🧠%20Neural%20Network%20Facts%20&fontSize=30&fontColor=ffffff&animation=twinkling" />
+</div>
+
+### 💡 Fun Neural Network & ML Facts
+- The first neural network, **Perceptron**, was introduced in **1958** by Frank Rosenblatt.  
+- Deep learning networks are inspired by the **human brain**, using layers of interconnected “neurons”.  
+- **Convolutional Neural Networks (CNNs)** are the backbone of image recognition and computer vision.  
+- Neural networks **learn by adjusting weights** using backpropagation and gradient descent.  
+- **GPT models** have billions of parameters, making them capable of generating human-like text!  
+- Overfitting is like memorizing your homework answers instead of **understanding concepts**—common in small datasets!  
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhruvbitmesra&limit=5&theme=dark&combine_all_yearly_contributions=true)
