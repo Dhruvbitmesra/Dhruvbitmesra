@@ -28,10 +28,7 @@ Email Me 👉 ✉️ **dhruvjordan610@gmail.com**😊😊
 
 
 
-<!-- Cool Animated Neural Network Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=180&section=header&text=🧠%20Neural%20Network%20Facts%20&fontSize=30&fontColor=ffffff&animation=twinkling" />
-</div>
+
 
 ### 💡 Fun Neural Network & ML Facts
 - The first neural network, **Perceptron**, was introduced in **1958** by Frank Rosenblatt.  
