@@ -51,9 +51,29 @@
 ---
 
 # 📊 GitHub Stats
+
+### 🔹 Summary Cards  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhruvbitmesra&theme=nightowl&cachebust=1" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhruvbitmesra&theme=nightowl&cachebust=1" alt="Top Languages by Repo" />
+</p>
+
+### 🔹 Detailed Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Dhruvbitmesra&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&cachebust=1)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvbitmesra&theme=nightowl&hide_border=true&cachebust=1)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvbitmesra&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cachebust=1)
+
+---
+
+### 🏆 Contributions & Streak Overview  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhruvbitmesra&theme=nightowl&utcOffset=5.5" alt="Most Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvbitmesra&theme=nightowl&hide_border=true&cachebust=1" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvbitmesra&theme=nightowl&cachebust=1" alt="Profile Details" />
+</p>
 
 ---
 
