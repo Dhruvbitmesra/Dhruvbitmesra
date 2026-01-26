@@ -4,7 +4,7 @@
 
 **A Quantitative Economics and Data Science student at BIT Mesra, diving deep into Machine Learning, Deep Learning, GenAI, LLMs, and Data Analytics. I love building smart things that make data come alive.**
 
-📧 Email Me 👉 ✉️ **dhruvjordan610@gmail.com** 😊😊  
+📧 Email Me 👉 ✉️ **dhruvjordan610@gmail.com** 
 
 - 🌱 **I’m currently learning:** GenAI, AgenticAI, MCP  
 - ⚡ **Fun fact:** I talk to AI so much, it might just start calling me its dataset.  
