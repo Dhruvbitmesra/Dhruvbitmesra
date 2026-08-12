@@ -6,7 +6,7 @@
 
 📧 Email Me 👉 ✉️ **dhruvjordan610@gmail.com** 
 
-- 🌱 **I’m currently learning:** GenAI, AgenticAI, MCP  
+- 🌱 **I’m currently learning:**AgenticAI, MCP  
 - ⚡ **Fun fact:** I talk to AI so much, it might just start calling me its dataset.  
 
 ---
